@@ -18,9 +18,9 @@ This guide shall explain how to setup this application on your system for develo
 Fork the repository and then clone the forked repository to your system.
 
 ```shell
-$ git clone https://github.com/<your-username>/docker-app.git
-$ cd docker-app
-$ git remote add upstream https://github.com/hemabhravee/docker-app.git
+$ git clone https://github.com/<your-username>/On-the-Docks.git
+$ cd On-the-Docks
+$ git remote add upstream https://github.com/hemabhravee/On-the-Docks.git
 $ git fetch --all
 ```
 
