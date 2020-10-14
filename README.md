@@ -1,4 +1,4 @@
-# docker-app
+# On The Docks
 
 ## Description
 A mobile app that helps you run commands on your terminal remotely.
