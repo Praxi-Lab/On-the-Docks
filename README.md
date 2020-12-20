@@ -2,7 +2,7 @@
 
 ## Description
 A mobile app that helps you run commands on your terminal remotely.
-Currently the app supports **Quick Docker** Commands to make your workflow even easier.
+It works for all commands but this app was originally aimed for **Quick Docker** Commands to make your workflow easier.
 
 ## Getting Started
 
